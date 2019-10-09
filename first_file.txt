@@ -1,0 +1,1 @@
+Hello buddy, this is the first file under the gitrocks project.
